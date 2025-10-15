@@ -2,11 +2,11 @@
 
 |   | 1 | 2 | 3 |
 |---|---|---|---|
-| A |   |   |   |
-| B |   |   |   |
-| C |   |   |   |
+| A |❌  | ⭕  |   |
+| B | ⭕  |⭕   |   |
+| C | ❌  |  ❌ |❌   |
 
 **Legenda**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Isa
+- ⭕ Vozes da cabeça de Isa
