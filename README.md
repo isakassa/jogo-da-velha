@@ -6,7 +6,7 @@
 | B | ⭕  |⭕   |   |
 | C | ❌  |  ❌ |❌   |
 
-**Legenda**
+**Personagens**
 
 - ❌ Isa
 - ⭕ Vozes da cabeça de Isa
